@@ -1,8 +1,8 @@
 import sys
 
 def search_phone_number(phone_number):
-    # Ваш код для поиска номера
-    # Пример:
+    # Здесь ваш код для поиска номера
+    # Для примера, будем возвращать статичную информацию
     result = f"Результаты поиска для {phone_number}:\n"
     result += " ├Источник: HTMLWEB & Veriphone\n"
     result += " ├Телефонный код: +7\n"
